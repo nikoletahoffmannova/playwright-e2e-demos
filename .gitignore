@@ -23,6 +23,6 @@ package-lock.json
 /blob-report/
 /playwright/.cache/
 /tests-examples
-
 # Env
 .env
+
