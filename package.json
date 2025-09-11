@@ -2,7 +2,6 @@
   "name": "playwright-e2e-demos",
   "version": "1.0.0",
   "description": "Playwright tests",
-  "main": "index.js",
   "type": "module",
   "private": true,
   "scripts": {
